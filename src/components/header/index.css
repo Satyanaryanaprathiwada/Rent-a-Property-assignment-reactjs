@@ -1,0 +1,52 @@
+.navbar-list{
+    width: 100%;
+    height: 70px;
+    background-color: #f8f4f9;
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    margin: 0px;
+}
+
+.logo-heading{
+    font-size: 23px;
+}
+
+.header-list{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    margin-left: 0px;
+    font-size: 18px;
+}
+
+.button-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 500px;
+}
+.logo-icon{
+    color: rgb(117, 53, 195);
+}
+.log-button{
+    background-color: transparent;
+    height: 40px;
+    width: 100px;
+    margin-right: 50px;
+    color: rgb(154, 79, 216);
+    border-color: rgb(157, 95, 215);
+    border-radius: 8px;
+}
+.sign-button{
+    background-color: rgb(89, 94, 196);
+    height: 40px;
+    width: 100px;
+    color: #ffffff;
+    border-color: rgb(89, 94, 196);
+    border-radius: 8px;
+}

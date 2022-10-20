@@ -1,0 +1,39 @@
+.property-card-container{
+    height: 410px;
+    width: 270px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+.room-details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+.property-image{
+    width: 100%;
+    margin: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.house-name{
+    font-size: 24px;
+}
+.price{
+    color: rgb(80, 36, 121);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.icon{
+    color: rgb(80, 36, 121);;
+}
+.bed{
+    color: grey;
+}
+.type{
+    display: none;
+}
